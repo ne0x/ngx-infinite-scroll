@@ -3,9 +3,9 @@
   "version": "0.8.4",
   "description":
     "An infinite scroll directive for Angular compatible with AoT compilation and Tree shaking",
-  "main": "./dist/bundles/ngx-infinite-scroll.umd.js",
-  "module": "./dist/modules/ngx-infinite-scroll.es5.js",
-  "es2015": "./dist/modules/ngx-infinite-scroll.js",
+  "main": "./bundles/ngx-infinite-scroll.umd.js",
+  "module": "./modules/ngx-infinite-scroll.es5.js",
+  "es2015": "./modules/ngx-infinite-scroll.js",
   "scripts": {
     "build": "node build.js",
     "test": "karma start",
