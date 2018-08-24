@@ -53,7 +53,7 @@ src/ngFactory
 
 $ cat .gitignore
 /node_modules
-/dist
+# /dist
 /documentation
 
 *.log
